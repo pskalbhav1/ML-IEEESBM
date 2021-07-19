@@ -11,7 +11,7 @@ while(1):
     upper = np.array([255,255,180])
     
     m = cv2.inRange(hsv, lower, upper)
-    r = cv2.bitwise_and(frame,frame, mask= mask)
+    r = cv2.bitwise_and(fr,fr, m= m)
 
     cv2.imshow('frame',fr)
     cv2.imshow('mask',m)
