@@ -9,6 +9,8 @@
 
 4] https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln
 
+5] https://youtu.be/GPVsHOlRBBI
+
 ### Numpy
 1] Documentation - https://numpy.org/doc/
 
