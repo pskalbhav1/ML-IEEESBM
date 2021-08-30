@@ -132,6 +132,31 @@
 ### Pytorch
 1] https://pytorch.org/tutorials/
 
+### Dialogflow Chatbot
+1] https://marutitech.com/build-a-chatbot-using-dialogflow/
+
+2] https://chatbotsjournal.com/create-chatbots-using-dialogflow-advanced-tutorial-536e6995617f
+
+3] https://chatbotslife.com/dialogflow-restaurant-bot-tutorial-1-45ce1d3c0ab5
+
+4] https://cobusgreyling.medium.com/how-to-create-a-chatbot-with-google-dialogflow-60616c2b802f
+
+5] https://developers.google.com/learn/pathways/chatbots-dialogflow
+
+### RASA Chatbot
+1] https://medium.com/voice-tech-podcast/how-to-create-chatbot-using-rasa-82954e141ae7
+
+2] https://www.machinelearningplus.com/nlp/chatbot-with-rasa-and-spacy/
+
+3] https://towardsdatascience.com/create-chatbot-using-rasa-part-1-67f68e89ddad
+
+4] https://www.solutelabs.com/blog/chatbots-and-how-we-built-one-using-rasa
+
+5] https://in.springboard.com/blog/chatbot-using-rasa/
+
+
+
+
 
 
 
