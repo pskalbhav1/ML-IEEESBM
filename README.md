@@ -56,6 +56,8 @@ Hey there! Here is a complete list of resources for someone looking forward to g
 
 10] https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
+11] https://microsoft.github.io/ML-For-Beginners/#/
+
 ### OpenCV
 1] https://github.com/pskalbhav1/ML-IEEESBM/wiki/Task-0
 
