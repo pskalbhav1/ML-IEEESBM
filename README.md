@@ -1,5 +1,7 @@
 # IEEESBM ML Resources
 
+Hey there! Here is a complete list of resources for someone looking forward to getting started with Machine Learning.
+
 ### Python Basics
 1] https://github.com/pskalbhav1/ML-IEEESBM/wiki/Python
 
