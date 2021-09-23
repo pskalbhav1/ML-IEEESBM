@@ -158,7 +158,8 @@ Hey there! Here is a complete list of resources for someone looking forward to g
 
 5] https://in.springboard.com/blog/chatbot-using-rasa/
 
-
+### Additional Resources
+1] https://analyticsindiamag.com/big-tech-their-favourite-deep-learning-techniques/
 
 
 
