@@ -38,7 +38,7 @@ Refer to the end of the list for interesting reads and real life applications of
 1] https://www.youtube.com/watch?v=URTZ2jKCgBc&list=PLQVvvaa0QuDd0flgGphKCej-9jp-QdzZ3
 
 ### Introduction to Machine Learning:
-1] Lecture 1 - Welcome | Stanford CS229: Machine Learning (Autumn 2018)
+1] https://www.youtube.com/watch?v=jGwO_UgTS7I
 
 2] https://developers.google.com/machine-learning/crash-course
 
