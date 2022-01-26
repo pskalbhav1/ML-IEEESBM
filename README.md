@@ -1,6 +1,8 @@
 # IEEESBM ML Resources
 
-Hey there! Here is a complete list of resources for someone looking forward to getting started with Machine Learning.
+Hey there! Here is a complete list of resources for someone looking forward to getting started with Machine Learning. 
+
+Refer to the end of the list for interesting reads and real life applications of ML.
 
 ### Python Basics
 1] https://github.com/pskalbhav1/ML-IEEESBM/wiki/Python
@@ -133,6 +135,16 @@ Hey there! Here is a complete list of resources for someone looking forward to g
 
 2] https://www.youtube.com/watch?v=FLZvOKSCkxY&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL
 
+3] https://www.coursera.org/learn/language-processing
+
+4] http://demo.clab.cs.cmu.edu/NLP/
+
+5] https://github.com/oxford-cs-deepnlp-2017/lectures/blob/master/README.md
+
+6] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/index.htm
+
+7] https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/
+
 ### Pytorch
 1] https://pytorch.org/tutorials/
 
@@ -158,8 +170,16 @@ Hey there! Here is a complete list of resources for someone looking forward to g
 
 5] https://in.springboard.com/blog/chatbot-using-rasa/
 
-### Additional Resources
+### Additional Resources [Interesting ML Reads]
 1] https://analyticsindiamag.com/big-tech-their-favourite-deep-learning-techniques/
+
+2] https://towardsdatascience.com/interesting-ai-ml-articles-you-should-read-this-week-sep-19-92ee6b14c12c
+
+3] https://blog.google/technology/ai/lamda/
+
+4] https://blog.google/products/earth/ai-finds-where-the-wild-things-are/
+
+
 
 
 
